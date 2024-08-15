@@ -10,5 +10,8 @@
 - [X] App Development
 - [X] Website Development  
 
+### 🚀 Projects
+- **[Shut Down](Project Link):** Shut Down is a game I made using godot in under a week (Under Development)
+
 ### 📫 How to reach me
 - [X] [Email](SahibjotDalla@gmail.com)
