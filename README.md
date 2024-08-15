@@ -10,8 +10,5 @@
 - [X] App Development
 - [X] Website Development  
 
-### 🚀 Projects
-- **[Project Name](Project Link):** A brief description of your project, its purpose, and technologies used.
-
 ### 📫 How to reach me
 - [X] [Email](SahibjotDalla@gmail.com)
