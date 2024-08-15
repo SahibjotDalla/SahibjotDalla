@@ -11,7 +11,7 @@
 - [X] Website Development  
 
 ### 🚀 Projects
-- [X] [Shut Down](https://github.com/SahibjotDev/Shut-Down): Shut Down is a game I made using godot in under a week (Under Development)
+- [Shut Down](https://github.com/SahibjotDev/Shut-Down): Shut Down is a game I made using godot in under a week (Under Development)
 
 ### 📫 How to reach me
-- [X] [Email](SahibjotDalla@gmail.com)
+- [X] [Email: SahibjotDalla@gmail.com](SahibjotDalla@gmail.com)
