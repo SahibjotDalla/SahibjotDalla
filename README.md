@@ -11,7 +11,9 @@
 - [X] Website Development  
 
 ### 🚀 Projects
-- [Shut Down](https://github.com/SahibjotDev/Shut-Down): Shut Down is a game I made using godot in under a week (Under Development)
+- [**Fly High**](https://github.com/SahibjotDalla/Fly-High): My first game created in Python using Pygame. Experience a thrilling sky adventure that puts your skills and reflexes to the test!
+- [**Simple Tkinter Apps**](https://github.com/SahibjotDalla/Simple-Tkinter-Apps): Explore a collection of three simple apps developed in just three days in Python using Tkinter.
+- [**Shut Down**](https://github.com/SahibjotDev/Shut-Down): An exciting top-down shooter created in Godot. Currently in development.
 
 ### 📫 How to reach me
 - [X] [Email: SahibjotDalla@gmail.com](SahibjotDalla@gmail.com)
