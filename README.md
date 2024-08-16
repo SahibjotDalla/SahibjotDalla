@@ -16,4 +16,4 @@
 - [**Shut Down**](https://github.com/SahibjotDev/Shut-Down): An exciting top-down shooter created in Godot. Currently in development.
 
 ### 📫 How to reach me
-- [**Email**]: SahibjotDalla@gmail.com
+- **Email**: SahibjotDalla@gmail.com
