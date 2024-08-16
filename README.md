@@ -11,9 +11,14 @@
 - [X] Website Development  
 
 ### 🚀 Projects
-- [**Fly High**](https://github.com/SahibjotDalla/Fly-High): My first game created in Python using Pygame. An acrade game that puts your skills and reflexes to the test!
-- [**Simple Tkinter Apps**](https://github.com/SahibjotDalla/Simple-Tkinter-Apps): Explore a collection of three simple apps developed in just three days in Python using Tkinter.
-- [**Shut Down**](https://github.com/SahibjotDev/Shut-Down): An exciting top-down shooter created in Godot. Currently in development.
+- [**Fly High**](https://github.com/SahibjotDalla/Fly-High):
+  My first game created in Python using Pygame. An acrade game that puts your skills and reflexes to the test!
+  
+- [**Simple Tkinter Apps**](https://github.com/SahibjotDalla/Simple-Tkinter-Apps):
+  Explore a collection of three simple apps developed in just three days in Python using Tkinter.
+  
+- [**Shut Down**](https://github.com/SahibjotDev/Shut-Down):
+  An exciting top-down shooter created in Godot. Currently in development.
 
 ### 📫 How to reach me
-- **Email**: SahibjotDalla@gmail.com
+**Email**: SahibjotDalla@gmail.com
